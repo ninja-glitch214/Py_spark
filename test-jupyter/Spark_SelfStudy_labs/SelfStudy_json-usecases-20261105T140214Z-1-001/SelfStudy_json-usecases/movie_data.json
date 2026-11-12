@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "movie": {
+      "Title": "Inception",
+      "Details": {
+        "Director": "Christopher Nolan",
+        "Year": 2010
+      }
+    }
+  },
+  {
+    "id": 2,
+    "movie": {
+      "Title": "The Matrix",
+      "Details": {
+        "Director": "The Wachowskis",
+        "Year": 1999
+      }
+    }
+  }
+]
