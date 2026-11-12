@@ -1,0 +1,260 @@
+Lab 1] BigData Fundamentals With Pyspark (M1 -> Introduction to Big Data analysis with Spark)
+1) Download the attached note in STAGING_AREA and extract it
+2) Create a folder UBUNTU_HOME(/home/talentum)/test-jupyter/P2/M1/SM1 in Ubuntu machine
+3) Pull the note in above location from your STAGING_AREA
+4) Open it in Jupyter Notebook running on Ubuntu Machine
+Dataset - /data/1_Whatisbigdata.zip 
+
+2] BigData Fundamentals With Pyspark (M1 Introduction to Big Data analysis with Spark)
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the Jupyter notes in UBUNTU_HOME/test-jupyter/P2/M1/SM2
+4) Import the notes in Jupyter Notebooks
+5) Follow the instructions in the notes and give the solutions
+Dataset - data/2_Pyspark-SparkWithPython.zip
+
+Time = 20 Mins.
+
+3] BigData Fundamentals With Pyspark (M1 Introduction to Big Data analysis with Spark
+Review of functional programming in Python (M1->SM3)
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the .ipynb files in UBUNTU_HOME/test-jupyter/P2/M1/SM3
+Import in Jupyter Notebook and implement
+Code/Dataset
+data/3_ReviewOfFunctionalProgramming.zip
+	Time = 15 Mins.
+
+4] Big Data Fundamentals with PySpark (M2 Programming in PySpark RDD’s 
+Abstracting Data with RDDs (M2->SM1)
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P2/M2/SM1
+4) Import the notes in Jupyter Note book
+5) Follow the instructions and give the solutions
+Code/Dataset
+data/1_AbstractingDatawithRDDs.zip
+Time = 20 Mins
+5] Big Data Fundamentals with PySpark (M2 Programming in PySpark RDD’s )
+Basic RDD Transformations and Actions (M2 -> SM2)
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P2/M2/SM2
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+
+Code/Dataset
+data/2_BasicRDDTransformationsandActions.zip
+
+TimeLine = 20 Minutes
+
+6] Big Data Fundamentals with PySpark (M2 Programming in PySpark RDD’s )
+Pair RDDs in PySpark (M2 -> SM3)
+
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P2/M2/SM3
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+
+Code/Dataset
+data/3_PairRDDsinPySpark.zip
+TimeLine = 20 Minutes
+
+7] Big Data Fundamentals with PySpark (M2 Programming in PySpark RDD’s )
+Advanced RDD Actions (M2 -> SM4)
+
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P2/M2/SM4
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+
+Code/Dataset
+data/4_AdvancedRddActions.zip
+
+TimeLine = 30 Minutes
+8] Pair Rdd (Self Study Lab)
+Code/Dataset
+data/Pair-RDD.zip
+TimeLine = 45 Minutes
+
+
+
+
+
+9] PySpark SQL & DataFrames (M3->sm1)
+
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P2/M3/sm1
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+Code/Dataset
+data/1_AbstractingDatawithDataFrames.zip
+TimeLine = 20 Minutes
+
+10] PySpark Sql and DataFrame
+(M3->sm2)
+
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P2/M3/sm2
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+Code/Dataset
+data/2_OperatingonDataFramesinPySpark.zip
+TimeLine = 30 Minutes
+
+11] PySpark Sql and DataFrame (M3->sm3)
+
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P2/M3/SM3
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+Code/Dataset
+data/3_InteractingwithDataFramesusingPySparkSQL.rar
+Time = 30 Mins
+12] Intro to data cleaning with Apache Spark
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in $UBUNTU_HOME/test-jupyter/P3/M1/SM1
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions 
+Dataset - data/1_IntrotodatacleaningwithApacheSpark.zip
+TimeLine = 20 Mins
+13] Immutability and lazy processing
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P3/M1/SM2
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions 
+Dataset - data/2_Immutabilityandlazyprocessing.zip
+TimeLine = 20 Mins
+14] Understanding Parquet
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in $HOME/test-jupyter/P3/M1/SM3
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions 
+Dataset - data/3_UnderstandingParquet.zip
+TimeLine = 20 Mins
+15] DataFrame column operations
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P3/M2/SM1
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+Code/Dataset
+	data/1_DataFramecolumnoperations.rar
+TimeLine = 20 Mins
+
+
+16] Conditional DataFrame column operations
+P3->M2->sm2
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P3/M2/sm2
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+
+Code/Dataset
+data/2_ConditionalDataFramecolumnoperations.zip
+
+	TimeLine = 25 Mins
+
+17] User defined functions
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P3/M2/sm3
+4) Import the notes in Jupyter Notebook
+ 5) Follow the instructions and give the solutions
+Code/Dataset
+data/3_UserDefinedFunctions.zip
+	TimeLine = 30 Mins
+
+18] PySpark MlLib - Collaborative Filtering
+
+1) Pull the extracted notes in UBUNTU_HOME/test-jupyter/P2/M4/SM2
+2) Import the notes in the Jupyter notebook.
+3) Follow the instructions based in the notes
+Code/Dataset
+data/2_CollaborativeFiltering.rar
+data/2_CollaborativeFiltering_Solution.rar
+	TimeLine = 40 Mins
+
+19] PySpark MlLib
+1) Pull the extracted notes in UBUNTU_HOME/test-jupyter/P2/M4/SM3
+2) Import the notes in the Jupyter notebook.
+3) Follow the instructions based in the notes
+Dataset - data/3_Classification.rar
+	 data/3_Classification_Solution.rar
+TimeLine = 40 Min
+20] Spark Structured Streaming
+Download the attached file in STAGING_AREA
+Pull the file in $UBUNTU_HOME/pyspark-kafka
+
+Code/Dataset
+data/PySpark-Kafka.zip
+
+21] Spark Integration with Hive
+Download the attached file in STAGING_AREA
+Pull the file in LABS_AREA/test-jupyter/spark-hive
+Code/Dataset
+data/Spark-Hive.zip
+
+22] Caching
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *p.ipynb files in UBUNTU_HOME/test-jupyter/P3/M3/SM1
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+Code/Dataset
+data/1_Caching.rar
+	TimeLine = 20 Mins
+
+23] Import Performance
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P3/M3/SM2
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+Code/Dataset
+data/2_Improveimportperformance.rar
+	TimeLine = 20 Mins
+
+24] Cluster Sizing Tips
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P3/M3/SM3
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+Code/Dataset
+data/3_clusterconfigurations.zip
+	TimeLine = 20 Mins
+
+
+25] Broadcast Join
+1) Download RAR on STAGING_AREA
+2) Extract the RAR
+3) Put the *.ipynb files in UBUNTU_HOME/test-jupyter/P3/M3/SM4
+4) Import the notes in Jupyter Notebook
+5) Follow the instructions and give the solutions
+Code/Dataset
+data/4_Performanceimprovements.zip
+	TimeLine = 20 Mins
+
+26] Spark JDBC
+Download the attached file in STAGING_AREA
+Pull the file in LABS_AREA/test-jupyter/spark-mysql
+Code/Dataset
+data/Spark-MySql.zip
+
+27] Spark Submit
+Download extract and pull to Sandbox home directory
+Code/Dataset
+data/spark-submit.zip
+
+
+
